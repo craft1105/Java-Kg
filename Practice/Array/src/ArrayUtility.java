@@ -15,4 +15,25 @@ public class ArrayUtility {
         }
         return  nums;
     }
+
+
+public static int[][] input2DArray() {
+    Scanner input = new Scanner(System.in);
+    System.out.print("Please Enter the Element number column: ");
+    int row = input.nextInt();
+    System.out.print("Please Enter the Element number row: ");
+    int column = input.nextInt();
+    int[][] numArray = new int[row][column];
+    int i = 0;
+    while (i < row) {
+        int j = 0;
+        while (j < column) {
+            System.out.print("Please Enter the row  " + (i + 1) + " column"+ (j + 1) +" :");
+            numArray[i][j] = input.nextInt();
+           j++;
+        }
+        i++;
+    }
+    return numArray;
+}
 }
