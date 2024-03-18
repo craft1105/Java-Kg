@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbeb7ebd-30a3-4451-9407-c51b55aa4a41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToString/src/StringFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datatypes/Datatypes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/Input.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattrens/pattrens.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twodimentionalarrray/twodimentionalarrray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/while-loop/while-loop.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ds272vv6aqeRp3N2dVRJohNvPq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/IdeaProjects/Practice/OOP-Advance"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbeb7ebd-30a3-4451-9407-c51b55aa4a41" name="Changes" comment="" />
+      <created>1710782294948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710782294948</updated>
+    </task>
+    <servers />
+  </component>
+</project>

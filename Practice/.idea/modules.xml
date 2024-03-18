@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Datatypes/Datatypes.iml" filepath="$PROJECT_DIR$/Datatypes/Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP-Advance/OOP-Advance.iml" filepath="$PROJECT_DIR$/OOP-Advance/OOP-Advance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Practice.iml" filepath="$PROJECT_DIR$/.idea/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToString/ToString.iml" filepath="$PROJECT_DIR$/ToString/ToString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattrens/pattrens.iml" filepath="$PROJECT_DIR$/pattrens/pattrens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twodimentionalarrray/twodimentionalarrray.iml" filepath="$PROJECT_DIR$/twodimentionalarrray/twodimentionalarrray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/while-loop/while-loop.iml" filepath="$PROJECT_DIR$/while-loop/while-loop.iml" />
+    </modules>
+  </component>
+</project>

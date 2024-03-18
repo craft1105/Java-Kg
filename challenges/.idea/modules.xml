@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OoopCourse/OoopCourse.iml" filepath="$PROJECT_DIR$/OoopCourse/OoopCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OopBook/OopBook.iml" filepath="$PROJECT_DIR$/OopBook/OopBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattren/Pattren.iml" filepath="$PROJECT_DIR$/Pattren/Pattren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singlelinepattren/Singlelinepattren.iml" filepath="$PROJECT_DIR$/Singlelinepattren/Singlelinepattren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/challenges.iml" filepath="$PROJECT_DIR$/.idea/challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fectorial/fectorial.iml" filepath="$PROJECT_DIR$/fectorial/fectorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inputcode/inputcode.iml" filepath="$PROJECT_DIR$/inputcode/inputcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leastCommonMultiple/leastCommonMultiple.iml" filepath="$PROJECT_DIR$/leastCommonMultiple/leastCommonMultiple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiplication-table/multiplication-table.iml" filepath="$PROJECT_DIR$/multiplication-table/multiplication-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odd-number/odd-number.iml" filepath="$PROJECT_DIR$/odd-number/odd-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primenumber/primenumber.iml" filepath="$PROJECT_DIR$/primenumber/primenumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sadasd/sadasd.iml" filepath="$PROJECT_DIR$/sadasd/sadasd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sumofnumber/sumofnumber.iml" filepath="$PROJECT_DIR$/sumofnumber/sumofnumber.iml" />
+    </modules>
+  </component>
+</project>
